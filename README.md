@@ -8,7 +8,7 @@ A full-stack care marketplace that connects **patients** with **care providers**
 
 ## Project Submission
 
-💡 **Devpost:** [Carebnb — TreeHacks 2026](https://devpost.com/software/carebnb-y39foj)
+**Devpost:** [Carebnb — TreeHacks 2026](https://devpost.com/software/carebnb-y39foj)
 
 > Includes the project inspiration, technical approach, development challenges, future directions, and product demonstration submitted to TreeHacks 2026.
 
