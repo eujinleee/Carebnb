@@ -1,6 +1,6 @@
 # CareBnb
 
-**Built at TreeHacks 2026**
+**Airbnb for Healthcare, where the care comes to you. Built at TreeHacks 2026.**
 
 A full-stack care marketplace that connects **patients** with **care providers** and lets **providers** find **open care requests**. Built with Next.js (App Router), Supabase, and PostGIS for location-based matching.
 
