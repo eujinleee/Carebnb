@@ -21,7 +21,7 @@ Contributed to backend development and integration, including:
 - Co-led project ideation and technical planning
 - Built and maintained backend functionality
 - Integrated backend services with frontend features
-- Implemented PostGIS-based provider matching and integrated Stanford-area provider data for location-aware search
+- Implemented PostGIS-based provider matching and integrated Stanford-area provider data
 
 ---
 
