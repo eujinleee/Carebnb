@@ -16,12 +16,12 @@ A full-stack care marketplace that connects **patients** with **care providers**
 
 ## My Contributions
 
-Responsible for backend development and integration, including:
+Contributed to backend development and integration, including:
 
 - Co-led project ideation and technical planning
-- Built and managed backend functionality
+- Built and maintained backend functionality
 - Integrated backend services with frontend features
-- Implemented PostGIS-based location matching and integrated Stanford provider data for realistic care search results
+- Implemented PostGIS-based provider matching and integrated Stanford-area provider data for location-aware search
 
 ---
 
