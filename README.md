@@ -1,22 +1,36 @@
-# CareBnb Marketplace
+# CareBnb
+
+**Built at TreeHacks 2026**
 
 A full-stack care marketplace that connects **patients** with **care providers** and lets **providers** find **open care requests**. Built with Next.js (App Router), Supabase, and PostGIS for location-based matching.
 
 ---
 
-## Table of contents
+## Project Submission
 
-- [Features](#features)
-- [Tech stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Setup](#setup)
-- [Running the app](#running-the-app)
-- [Project structure](#project-structure)
-- [Pages & routes](#pages--routes)
-- [API reference](#api-reference)
-- [Environment variables](#environment-variables)
-- [Supabase configuration](#supabase-configuration)
-- [Deployment](#deployment)
+💡 **Devpost:** [Carebnb — TreeHacks 2026](https://devpost.com/software/carebnb-y39foj)
+
+> Includes the project inspiration, technical approach, development challenges, future directions, and product demonstration submitted to TreeHacks 2026.
+
+---
+
+## My Contributions
+
+Responsible for backend development and integration, including:
+
+- Co-led project ideation and technical planning
+- Built and managed backend functionality
+- Integrated backend services with frontend features
+- Implemented PostGIS-based location matching and integrated Stanford provider data for realistic care search results
+
+---
+
+## Team
+
+- Eujin Lee
+- Maryam Bellakbira
+- Aymaan Shaikh
+- Alexis Li
 
 ---
 
@@ -156,7 +170,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_public_key
 
 ## Project structure
 
-```
+```text
 CareBnB/
 ├── app/
 │   ├── layout.tsx              # Root layout, header nav
@@ -276,9 +290,3 @@ In **Supabase Dashboard → Authentication → URL Configuration**:
    - `NEXT_PUBLIC_SUPABASE_URL`
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
 3. In Supabase, add your production URL (e.g. `https://your-app.vercel.app`) to **Redirect URLs** and set **Site URL** if needed.
-
----
-
-## License
-
-Private / unlicensed unless otherwise specified.
