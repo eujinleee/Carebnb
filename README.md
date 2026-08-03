@@ -1,4 +1,4 @@
-# CareBnb
+# Carebnb
 
 **Airbnb for Healthcare, where the care comes to you. Built at TreeHacks 2026.**
 
